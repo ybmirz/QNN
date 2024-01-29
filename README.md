@@ -1,3 +1,8 @@
+
+Fork of https://github.com/viventriglia/Quantum_Neural_Network_QNN
+
+---
+
 # Quanvolutional Neural Network (QNN)
 
 In this [notebook](https://github.com/viventriglia/Quantum_Neural_Network_QNN/blob/main/quanvolution.ipynb) we implement a *Quanvolutional Neural Network*, a quantum machine learning model originally introduced in [Henderson et al. (2019)](https://arxiv.org/abs/1904.04767).
